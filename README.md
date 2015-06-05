@@ -27,4 +27,11 @@ por ejemplo:
 1. ya han contratado el personal? para cuando los contratrán y cuantos?
 1. usaran sistemas como dat project ?
 1. otro, el Poder Judicial tiene decenas de GB de info para liberar. Deben usar torrent. O tienen infraestructura para bajarse todo de golpe?
+1. Piden que enviemos las propuestas/comentarios por email. Si el tema de
+   discusión es sobre datos abiertos por qué no discutimos de manera abierta?
+   Hubieran podido crear un repositorio público en Github para hacer los
+   comentarios allí de manera pública. Así podemos ver qué propuestas se hacen
+   y, más importante, ver si eventualmente nos escucharán, ver si realmente
+   están interesados en nuestro *feedback*. Sería malazo que no les interese
+   nuestra opinión y solo pidan *feedback* por cumplir.
 
