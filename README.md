@@ -34,4 +34,14 @@ por ejemplo:
    y, más importante, ver si eventualmente nos escucharán, ver si realmente
    están interesados en nuestro *feedback*. Sería malazo que no les interese
    nuestra opinión y solo pidan *feedback* por cumplir.
+1. Es necesario que se aclare la legislación actual respecto a las bases de
+   datos con datos personales. El caso **datosperu** es un ejemplo patente del
+   conflicto entre la Ley de Transparencia y Ley de Datos Personales. Según una
+   ley se puede publicar nombres y apellidos de funcionarios públicos
+   relacionados a ciertos hechos administrativos, pero según la otra ley esto
+   no se puede hacer. Abogados conocedores de estos temas me dan opiniones
+   totalmente opuestas. Obviamente la ley no está clara. Nadie quiere que los
+   usuarios de sus datos abiertos terminen sentenciados a multa/cárcel.
+   Quizá esto no sea de su ámbito, pero una estrategia con leyes confusas no
+   será muy efectiva en alcanzar sus objetivos.
 
