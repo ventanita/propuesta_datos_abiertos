@@ -1,24 +1,77 @@
-Aquí está la propuesta del Estado en 2 documentos:
-<http://t.co/MdrSxigzcJ>
+# No vas a creer los XZ comentarios sobre datos abiertos que tenemos para la Secretaría de Gestión Pública
 
-la propuesta está en algo, pero le falta la parte tecnica
-y hay cosas que seguro no lograran
-o están sobrando
-por ejemplo:
+La Secretaría de Gestión Pública, la cual pertenece a la Presidencia del
+Consejo de Ministros, quiere entrar a la onda de datos abiertos.
+
+![](images/2015-06-06_secretaria_gestion_publica.png)
+
+Ha elaborado unos documentos que describen la **Estrategia Nacional de Datos
+Abiertos** y han invitado a el público en general que analice y opine,
+critique, <strike>trolee,</strike>, etc.
+
+Aquí está la propuesta del Estado en 2 documentos:
+<http://www.gestionpublica.gob.pe/foro/viewtopic.php?f=7&t=4>
+
+
+La idea principal de dicha estrategia es digitalizar una variedad de datos que
+contiene el Estado Peruano, y hacerlos disponibles a los ciudadanos,
+periodistas de datos, investigadores y emprendedores, con fines de
+investigación y periodismo. Todos estos datos estarán disponibles de manera 
+abierta (\#datosAbiertos).
+
+![](images/2015-06-06_ofertas_de_datos.png)
+
+La propuesta está en algo, son bonitos deseos y anhelos, pero creemos que le
+falta sustancia a la parte técnica. Y sobre todo faltan marcar los objetivos
+claros sobre la cancha.
+
+Creemos que la idea es buena, pero la estrategia será más concreta y menos
+gaseosa y se le añaden algunas cositas. Por eso en colaboración con mis
+amixeres @CestDiego y @McPollo hemos enumerado algunas ideas y
+comentarios:
+
 
 Alcance
 -------
-1. Qué instituciones digitalizarán sus datos? cuantas?
-1. Qué datos serán diposnibles? registro de visitas del congreso? de votaciones?
+1. Qué instituciones estatales digitalizarán sus datos? cuántas?
+2. Qué datos se harán disponibles? El registro de visitas del Congreso?
+3. Según esta estrategia, el Congreso dejará de publicar los resultados de las
+   votaciones en hojas impresas en la EPSON MX-80?
+
+![](images/2015-06-06_votacion.png)
+Esto no se puede parsear automáticamente
+
+![](images/2015-06-06_epson.png)
+Ya es hora de cambiar de impresora
+
 
 Sugerencias y dudas a nivel técnico
 -----------------------------------
-1. quieren emitir datos abiertos en los siguientes formatos: JSON, XML, RDF,
-   ODF, CSV en uno nomás no sería sufiente?
-1. otro, el Poder Judicial tiene decenas de GB de info para liberar. Deben usar torrent. O tienen infraestructura para bajarse todo de golpe?
-1. que quiten Disable * en el robots.txt de las webs del Estado.
+4. Los documentos de la **gran estrategia** indican que quieren emitir datos
+   abiertos en los siguientes formatos: JSON, XML, RDF,
+   ODF, CSV, etc. No sería sufiente que publiquen los datos **en un solo
+   formato**? Mantener el software que emita tantos formatos no es tarea fácil.
+   Además para qué tanta repetición? Pueden hacer  mejor uso de su capital
+   humano en otras tareas.
+5. Instituciones como el Poder Judicial tiene decenas de GB de info para liberar.
+   [Solo las sentencias de la Corte Suprema del año 2013 pesan 11 Gigabytes](http://aniversarioperu.utero.pe/2014/06/17/el-utero-libera-datos-estatales-en-masa/).
+   Tienen la infraestructura para bajarse que los ciudadanos puedan descargar
+   esta info sin tumbarse sus servidores?
+   No sería bueno que usen torrents para que aligeren la carga y faciliten a
+   que los ciudadanos interesados compartan la información entre ellos sin
+   necesidad de exigir demasiado los servidores del Estado?
+   Algunos dirán: **pero los torrents solo se comparte material pirateado**.
+   Déjame decirte que:
+
+![](images/2015-06-06_yon_snow.jpg)
+
+1. 
    Por alguna razon no quieren que Google y demás indexen sus contenidos.
    \#datosabiertos
+que quiten Disable * en el robots.txt de las webs del Estado.
+
+![](images/2015-06-06_hiperderecho.png)
+
 1. No solo los datos deben ser abiertos, también el software para dar chance a 
    que el publico mejore sus sitemas
 1. Cuantos repositorios en web quieren tener como objetivo?, para cuando?
